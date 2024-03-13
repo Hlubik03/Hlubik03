@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 my name is Filip
+👨‍💻I’m a a passionate stundent from Slovakia
 
+🌱I’m currently learning how to code in general, so i will be thankfull for anytips
 <!--
 **Hlubik03/Hlubik03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
