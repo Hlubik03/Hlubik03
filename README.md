@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Filip
-👨‍💻I’m a a passionate stundent from Slovakia
+👨‍💻I’m a a passionate student from Slovakia
 
 🌱I’m currently learning how to code in general, so i will be thankfull for any tips
 <!--
